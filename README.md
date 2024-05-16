@@ -1,16 +1,4 @@
-# named_route_example
+# Passing Data To A Named Route With Flutter
+You can check out the [Medium Article](https://medium.com/@betulchn42/passing-data-to-a-named-route-with-flutter-346c5d387e64) for more info.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/betulcihan/flutter_named_route/assets/74247372/b64a2da2-46aa-4553-ad45-54c977cb00c3" width="250" height="600"/>
